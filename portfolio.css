@@ -1,0 +1,31 @@
+h1{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bolder;
+    border-radius: 20px;
+    border-color: red;
+
+}
+body{
+    background-color: aqua;
+}
+nav{
+     background-color: palevioletred;
+     color:black;
+     font-size: 45px;
+     text-align: right;
+}
+
+.container{
+    background-image: url('./color4.jpg');width: 800px;height: 450px;;
+} 
+footer{
+    text-align: center;
+   
+      
+}
+#check{
+    text-align: right;
+}

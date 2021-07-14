@@ -1,0 +1,15 @@
+h2{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bolder;
+    border-width: 25px;
+    border-color: black;
+    border-radius: 20px;
+}
+main{
+    background-image: url('./logo.jpg');
+    width: 800px;
+    height: auto;
+}
